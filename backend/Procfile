@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hosanna_seminary_5056.wsgi:application

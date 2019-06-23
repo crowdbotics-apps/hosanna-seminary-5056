@@ -1,0 +1,3 @@
+rootProject.name = 'hosanna_seminary_5056'
+
+include ':app'
